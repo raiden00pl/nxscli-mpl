@@ -15,3 +15,8 @@
 - use numpy data streams
 - support different plot types: linear, fft, polar, xy
 - rename old commands: ani1 -> live, ani2 -> roll, cap -> snap
+
+## 1.0.1 (22.03.2026)
+
+- major code refactor
+- support for new triggering logic from nxscli
